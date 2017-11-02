@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+Будет удалено .gitignore
+.idea/
+Будет удалено index.js
+node_modules/
+Будет удалено package-lock.json
+Будет удалено package.json
